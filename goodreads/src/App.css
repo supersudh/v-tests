@@ -1,0 +1,21 @@
+.book-card {
+  width: 100% !important;
+  margin: 0.5rem 0;
+}
+
+.book-card .book-card-img {
+  width: 150px;
+  height: 150px;
+}
+
+.book-card-body .card-desc {
+}
+
+.label-value-section ._label {
+  font-weight: bold;
+}
+
+.label-value-section ._value {
+  color: #6c757d !important;
+  margin-left: 0.25rem;
+}
